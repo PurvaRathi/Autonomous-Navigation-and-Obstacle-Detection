@@ -3,7 +3,7 @@
 This repository contains the Arduino codes for a 6-wheel autonomous rover capable of autonomous navigation and dynamic obstacle avoidance using ultrasonic sensors and an L298N motor driver.  
 The system is designed to operate without human control and make real-time movement decisions based on detected obstacles.
 
-## 🧭 Project Overview
+## 🧭 Overview
 This repository demonstrates how an Arduino Uno can control a six-wheel rover to:
 - Move autonomously using motor control logic.
 - Detect and avoid obstacles dynamically using ultrasonic distance measurement.
