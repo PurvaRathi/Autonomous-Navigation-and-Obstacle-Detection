@@ -30,3 +30,6 @@ This repository demonstrates how an Arduino Uno can control a six-wheel rover to
    - Moves backward for a short distance.
    - Turns left or right to avoid the obstacle.
 4. The rover resumes forward motion once the path is clear.
+
+
+Dynamic obstacle detection is not completed yet. Those codes will be updated soon.
